@@ -25,6 +25,7 @@ import setuptools
 
 INSTALL_REQUIRES = [
     "numpy>=1.24.4",
+    "matplotlib>=3.0.0"
 ]
 
 EXTRAS_REQUIRE = {    
